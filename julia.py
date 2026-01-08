@@ -1,1 +1,1 @@
-akfhjjsogfhnusirg
+print("Hello, Julia!")
